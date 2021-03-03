@@ -1,3 +1,5 @@
+#This will combine all txt files into one result.txt file
+
 import fileinput
 import glob
 
