@@ -7,6 +7,9 @@
 
 ![Code Size](https://img.shields.io/github/languages/code-size/dhavalhariyani/useful-python-scripts) ![Top Language](https://img.shields.io/github/languages/top/dhavalhariyani/useful-python-scripts) 
 <br>
+### Please Note
+- Some pip packages also required in some scripts. If you face error stating module not found then please install that package by `pip install pkg_name`
+
  ### Run these scripts online and test it without any configuration
  
  - [![Run on Repl.it](https://repl.it/badge/github/dhavalhariyani/useful-python-scripts)](https://repl.it/@dhavalhariyani/useful-python-scripts)
